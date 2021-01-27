@@ -1,0 +1,79 @@
+/**********************************************************
+                            font-size (8px~40px)
+    *******************************************************/
+.fsize_8{ font-size: 8px;}
+.fsize_9{ font-size: 9px;}
+.fsize_10{ font-size: 10px;}
+.fsize_11{ font-size: 11px;}
+.fsize_12{ font-size: 12px;}
+.fsize_13{ font-size: 13px;}
+.fsize_14{ font-size: 14px;}
+.fsize_15{ font-size: 15px;}
+.fsize_16{ font-size: 16px;}
+.fsize_17{ font-size: 17px;}
+.fsize_18{ font-size: 18px;}
+.fsize_19{ font-size: 19px;}
+.fsize_20{ font-size: 20px;}
+.fsize_21{ font-size: 21px;}
+.fsize_22{ font-size: 22px;}
+.fsize_23{ font-size: 23px;}
+.fsize_24{ font-size: 24px;}
+.fsize_25{ font-size: 25px;}
+.fsize_26{ font-size: 26px;}
+.fsize_27{ font-size: 27px;}
+.fsize_28{ font-size: 28px;}
+.fsize_29{ font-size: 29px;}
+.fsize_30{ font-size: 30px;}
+.fsize_31{ font-size: 31px;}
+.fsize_32{ font-size: 32px;}
+.fsize_33{ font-size: 33px;}
+.fsize_34{ font-size: 34px;}
+.fsize_35{ font-size: 35px;}
+.fsize_36{ font-size: 36px;}
+.fsize_37{ font-size: 37px;}
+.fsize_38{ font-size: 38px;}
+.fsize_39{ font-size: 39px;}
+.fsize_40{ font-size: 40px;}
+/**********************************************************
+            color(随時追加予定)
+    *******************************************************/
+.color_ccc{color: #ccc;}
+.color_ddd{color: #ddd;}
+.color_bbb{color:#bbb;}
+.color_aaa{color:#aaa;}
+.color_666{color:#666;}
+.color_888{color:#888;}
+.color_bababa{color:#bababa;}
+.color_fff{color:#fff;}
+.color_000{color:#000;}
+.color_red{color: red;}
+/* .color_{color: ;} */
+/* .color_{color: ;} */
+/* .color_{color: ;} */
+/* .color_{color: ;} */
+
+/**********************************************************
+                            border solid 1px
+    *******************************************************/
+.bds_1{border: 1px #000 solid;}
+.bdb_1{border-bottom: 1px #000 solid;}
+.bdc_ccc{border-color: #ccc;}
+.bdc_ddd{border-color: #ddd;}
+.bdc_bbb{border-color:#bbb;}
+.bdc_aaa{border-color:#aaa;}
+.bdc_666{border-color:#666;}
+.bdc_888{border-color:#888;}
+.bdc_bababa{border-color:#bababa;}
+.bdc_fff{border-color:#fff;}
+.bdc_000{border-color:#000;}
+.bdc_red{border-color: red;}
+/* .bdc_{border-color: ;} */
+/* .bdc_{border-color: ;} */
+/* .bdc_{border-color: ;} */
+/* .bdc_{border-color: ;} */
+
+/**********************************************************
+                    font-weihgt                       
+    *******************************************************/
+.fweihgt_nomal{font-weight: normal;}
+.fweight_bold{font-weight: bold;}
